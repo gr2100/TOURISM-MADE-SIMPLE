@@ -1,5 +1,5 @@
-# TOURISM-MADE-
-# We Make Tourism Simple - GitHub ReadMe
+# TOURISM-MADE-SIMPLE
+# We Make Tourism Simple
 
 Welcome to the official GitHub repository for "We Make Tourism Simple" - Your one-stop solution for simplifying your travel experiences! This project is all about providing you with everything you need to know about your travel destinations in one convenient place.
 
